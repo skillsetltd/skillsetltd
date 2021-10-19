@@ -1,5 +1,7 @@
+![SkillSet-logo-WEB-1](https://user-images.githubusercontent.com/92787643/137886163-c905678c-d6f1-4b46-8439-c2a643071536.png)
 About SkillSet
 ==============
+
 
 SkillSet has been designing, developing and delivering training programmes since 1992. We work closely with our clients to make sure we understand their needs and deliver the most effective solution.
 
